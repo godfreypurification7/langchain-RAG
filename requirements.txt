@@ -1,0 +1,9 @@
+langchain 
+langchain-community 
+langchain-huggingface 
+chromadb 
+beautifulsoup4 
+sentence-transformers
+langchain-chains
+pypdf 
+
